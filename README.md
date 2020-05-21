@@ -3,6 +3,7 @@ Toy project which includes all the basic JEE techniques involved in the objectiv
 Local dev environment: eclispe + Tomcat9
 
 Tomcat installation:
+
 1. Create server in eclipse and import the server binary folder
 2. Go to server properties and click switch location (change from metadata to where tomcat is installed)
 3. Double click server and set server location to tomcat location
